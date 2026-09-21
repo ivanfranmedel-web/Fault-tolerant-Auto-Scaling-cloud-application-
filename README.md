@@ -20,6 +20,6 @@ Amazon CloudWatch
 
 
 GROUP MEMBERS:
-X00221466 — Ivan Medel
-X00219599 — Muhammad Abubaker
-C23300041 — Daniel Ilesanmi
+X00221466 - Ivan Medel
+X00219599 - Muhammad Abubaker
+C23300041 - Daniel Ilesanmi
