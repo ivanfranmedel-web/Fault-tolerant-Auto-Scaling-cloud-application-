@@ -1,5 +1,5 @@
 # Fault-tolerant-Auto-Scaling-cloud-application-
-AWS project for my Cloud module deployed a web app on EC2, added an RDS database, then load balancing and auto scaling. Built across 3 iterations, fixing real issues along the way.
+AWS project for my Cloud module second sem deployed a web app on EC2, added an RDS database, then load balancing and auto scaling. Built across 3 iterations, fixing real issues along the way.
 What it does:
 
 A simple record-management app (add, edit, delete entries) deployed on AWS. The point of the project wasn't the app itself but the infrastructure underneath it, built up over three iterations:
